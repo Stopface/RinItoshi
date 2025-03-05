@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+
+    font-family:'Franklin Gothic Medium';
+
+    background: darkcyan;
+
+    color: rgb(0, 247, 255);
+}
+
+img {  
+
+    width: 200px;
+}
